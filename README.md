@@ -1,4 +1,4 @@
-Hackathon 1: Portfolio Building
+## Hackathon 1: Portfolio Building
 
 Heads up!
 One assignment submission is allowed per group.
@@ -12,7 +12,7 @@ Build your own portolio project and seek guidance and counsel from your peer gro
 
 **Recognition**: Peer groups where all members successfully submit their portfolios by the deadline will receive special recognition during the Award Ceremony.
 
-Benefits of Peer Groups:
+## Benefits of Peer Groups:
 Get valuable feedback on your portfolio before submission.
 
 Learn from your peers’ experiences.
@@ -30,17 +30,17 @@ Participants should nominate the most outstanding portfolio project and paste th
 
 Individuals must star rate each other’s solutions and provide constructive comments based on the evaluation criteria below
 
-🏆 Evaluation Criteria
+🏆 **Evaluation Criteria**
 Submissions will be evaluated based on the following:
 
-Creativity and Ingenuity – Original ideas and standout features.
+**Creativity and Ingenuity** – Original ideas and standout features.
 
-Code Quality – Clean, readable, and efficient code.
+**Code Quality** – Clean, readable, and efficient code.
 
-Documentation  – Informative README file and clear code comments.
+**Documentation**  – Informative README file and clear code comments.
 
-Deployment – Successfully hosted on a platform like GitHub Pages or Netlify.
+**Deployment – Successfully hosted on a platform like GitHub Pages or Netlify.
 
-Development Process  – Effective collaboration and project management.
+**Development Process**  – Effective collaboration and project management.
 
-Technology Stack – Usage of responsive, visually appealing design elements.
+**Technology Stack** – Usage of responsive, visually appealing design elements.
