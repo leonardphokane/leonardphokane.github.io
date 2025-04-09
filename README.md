@@ -21,10 +21,10 @@ This is a simple, responsive portfolio built using HTML, CSS, and JavaScript.
 
 ## 💼 Author
 
-- 👤 Name: Reuben Kokani  
+- 👤 Name: Leonard Phokane  
 - 📧 Email: leonardphokane1@gmail.com  
 - 🔗 GitHub: https://github.com/leonardphokane
-- 🔗 LinkedIn: [Reuben Kokani](https://www.linkedin.com/in/reuben-kokani-b41974100/)
+- 🔗 LinkedIn: https://www.linkedin.com/in/leonard-phokane
 
 ## 🙌 Feedback
 
