@@ -5,7 +5,7 @@ One assignment submission is allowed per group.
 🔹 Peer Group Collaboration
 Build your own portolio project and seek guidance and counsel from your peer group as you build. 
 
-**Peer Group Structure**:
+## Peer Group Structure:
 **Support**: Work together, share ideas, and troubleshoot issues collaboratively.
 
 **Leadership**: Each group will have a peer leader responsible for guiding members and ensuring timely submissions.
