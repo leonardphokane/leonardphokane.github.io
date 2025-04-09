@@ -2,7 +2,7 @@
 
 Heads up!
 One assignment submission is allowed per group.
-🔹 Peer Group Collaboration
+## 🔹 Peer Group Collaboration
 Build your own portolio project and seek guidance and counsel from your peer group as you build. 
 
 ## Peer Group Structure:
