@@ -1,4 +1,4 @@
-# Reuben Kokani's Portfolio
+# Leonard Phokane's Portfolio
 
 Welcome to my personal portfolio website! 👋  
 This is a simple, responsive portfolio built using HTML, CSS, and JavaScript.
@@ -22,8 +22,8 @@ This is a simple, responsive portfolio built using HTML, CSS, and JavaScript.
 ## 💼 Author
 
 - 👤 Name: Reuben Kokani  
-- 📧 Email: kokanir97@gmail.com  
-- 🔗 GitHub: [reuben-sudo](https://github.com/reuben-sudo)  
+- 📧 Email: leonardphokane1@gmail.com  
+- 🔗 GitHub: https://github.com/leonardphokane
 - 🔗 LinkedIn: [Reuben Kokani](https://www.linkedin.com/in/reuben-kokani-b41974100/)
 
 ## 🙌 Feedback
