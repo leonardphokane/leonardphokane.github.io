@@ -19,7 +19,7 @@ Learn from your peers’ experiences.
 
 Celebrate success together as a team!
 
-📂 Assignment Requirements
+📂 # Assignment Requirements
 All learners are required to submit a hackathon project.
 
 The project must be built strictly using HTML, CSS, javascript and Databases.
